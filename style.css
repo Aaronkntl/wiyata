@@ -1,0 +1,46 @@
+.body {
+  
+}
+
+
+.judul {
+  background-color: white;
+}
+
+.donasi {
+  width: 1;
+  height: 1;
+}
+
+.sosmed {
+  display: flex;
+  width: 100px;
+}
+
+.h5 {
+  background-color: white;
+  padding: 15px;
+  width: 1000px;
+  margin: 10px;
+  border: 2px solid black;
+  font-family: 'Roboto Mono', monospace;
+  box-shadow: 1px 1px 1px 1px white;
+  
+}
+
+.logo {
+  font-size: 24px;
+  text-align: center;
+}
+
+.btn {
+margin-top: 16px;
+padding: 8px;
+cursor: pointer;
+border: none;
+}
+
+.btn:hover {
+  background-color: blue;
+  transform:rotate(10deg);
+}
